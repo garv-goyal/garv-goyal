@@ -6,7 +6,7 @@ Welcome to my GitHub Profile.
 
 <!--![](https://komarev.com/ghpvc/?username=garv-goyal)-->
 
-🌐 [Portfolio](https://garv-goyal.github.io/)  | 💼 [LinkedIn](https://www.linkedin.com/in/garv-goyal/) | 📬 [gghg1811@gmail.com](mailto:gghg1811@gmail.com)
+🌐 [Portfolio](https://www.garvgoyal.com/)  | 💼 [LinkedIn](https://www.linkedin.com/in/garv-goyal/) | 📬 [gghg1811@gmail.com](mailto:gghg1811@gmail.com)
 
 <!--
 **garv-goyal/garv-goyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
