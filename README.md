@@ -11,7 +11,7 @@ Hi there! I'm Garv Goyal 👋.  Welcome to my GitHub Profile.
   <a href="https://www.linkedin.com/in/garv-goyal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:gghg1811@gmail.com" target="_blank">
+  <a href="mailto:gghg1811@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
